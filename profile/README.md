@@ -1,4 +1,4 @@
-# Topological String Lab (TS-Lab)
+# Topological Strings Lab (TS-Lab)
 
 An open-source public collaborative workspace for research in topological
 strings and enumerative geometry.
