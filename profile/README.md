@@ -18,7 +18,5 @@ administration: [meta](https://github.com/topological-strings-lab/meta)
   Workshop PDFs are in-progress, often AI-assisted, unrefereed working documents
   credited to the TS-Lab Collective; curated human-written surveys go to arXiv.
 - **How contributed material is used:** text and PDFs are CC BY 4.0, code MIT,
-  data CC0 (provisional). Whether repository content may be used to train AI
-  models is an open question for the community; until it is settled, no
-  content is supplied to third parties for training.
+  data CC0 (provisional). 
 - **Contact the SC:** open an issue in [meta](https://github.com/topological-strings-lab/meta/issues).
