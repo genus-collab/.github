@@ -1,8 +1,7 @@
 # Topological String Lab (TS-Lab)
 
 An open-source public collaborative workspace for research in topological
-strings and enumerative geometry — closer in spirit to Polymath than to a
-preprint server.
+strings and enumerative geometry.
 
 **Strands:** [foundations](https://github.com/topological-strings-lab/foundations) ·
 [solutions](https://github.com/topological-strings-lab/solutions) ·
