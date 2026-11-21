@@ -12,7 +12,7 @@ administration: [meta](https://github.com/genus-collab/meta)
 
 ## About
 
-- **Who maintains it:** the GENUS Steering Committee and Strand Moderators
+- **Who maintains it:** the GENUS Steering Committee and Strand Leads
   (see the [charter](https://github.com/genus-collab/meta/blob/main/CHARTER.md), § Governance).
 - **What it is for:** frontier research done collectively and in the open.
   Workshop PDFs are in-progress, often AI-assisted, unrefereed working documents
